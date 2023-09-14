@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063224115485",
+    "project_id": "letsstart-f253c",
+    "storage_bucket": "letsstart-f253c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063224115485:android:d4934c1246dda76cdee1f4",
+        "android_client_info": {
+          "package_name": "com.example.letstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_kMzMZz81n7wS4anM3KCYv12ZnClZCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
